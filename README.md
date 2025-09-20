@@ -1,10 +1,15 @@
 
 
 ## 📝 Daftar Materi
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,nodejs" />
+  </a>
+</p>
+
 - [HTML](./html/README.md)  
 - [CSS](./css/catatan.md)  
-- [JavaScript](./javascript/catatan.md)
-- [git](./git/README.md) 
+- [JavaScript](./javascript/catatan.md)  
 - [Proyek Latihan](./proyek-kecil/)  
 
 ---
@@ -24,3 +29,12 @@
 1. Clone repo ini:
    ```bash
    git clone https://github.com/myahyar/my-web-learning.git
+
+## My Account Github 👉 *myahyar*👇
+<p align="center">
+  <a href="https://github.com/myahyar/myahyar.git">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+  [skillicons](https://skillicons.dev)

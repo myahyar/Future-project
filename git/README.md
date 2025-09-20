@@ -1,4 +1,11 @@
 
 # GIT documentation
 --- 
-## 1.[git tips](./git-tips.md)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
+
+--- 
+## [git tips](./git-tips.md) 

@@ -3,7 +3,8 @@
 ## 📝 Daftar Materi
 - [HTML](./html/README.md)  
 - [CSS](./css/catatan.md)  
-- [JavaScript](./javascript/catatan.md)  
+- [JavaScript](./javascript/catatan.md)
+- [git](./git/README.md) 
 - [Proyek Latihan](./proyek-kecil/)  
 
 ---

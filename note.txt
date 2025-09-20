@@ -1,0 +1,62 @@
+
+# hallo gais apakabar everybody
+# I want buy  motocycle herley
+
+1. Membuka / Membuat File
+
+nano namafile.txt
+	
+Kalau namafile.txt belum ada → nano akan membuat file baru.
+
+Kalau file sudah ada → nano akan membuka isinya.
+
+
+
+---
+
+2. Navigasi Dasar di Nano
+
+Panah atas/bawah/kiri/kanan → untuk pindah kursor.
+
+Ketik langsung → menulis teks.
+
+
+
+---
+
+3. Menyimpan Perubahan
+
+Tekan CTRL + O (tahan CTRL, tekan O → artinya Output/Write Out).
+
+Lalu tekan Enter untuk konfirmasi nama file.
+
+
+
+---
+
+4. Keluar dari Nano
+
+Tekan CTRL + X (Exit).
+
+Kalau ada perubahan yang belum disimpan, nano akan tanya dulu:
+
+Tekan Y (Yes) untuk simpan.
+
+Tekan N (No) kalau tidak mau simpan.
+
+
+
+
+---
+
+5. Shortcut Penting
+
+CTRL + W → cari teks dalam file.
+
+CTRL + K → potong (cut) baris.
+
+CTRL + U → paste (undo cut).
+
+CTRL + G → buka bantuan lengkap.
+
+
